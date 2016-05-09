@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1412258375 source:d:\code\h_pascal\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+	<cmath>
+

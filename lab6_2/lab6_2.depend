@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1432294504 source:d:\code\lab6_2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<cassert>
+	<utility>
+

@@ -1,0 +1,27 @@
+public class hello {
+	
+	public static void main(String[] args){
+		System.out.println("Hello");
+	Person p = new Person();
+	//p.setAge();
+	p.growup();
+	p.getAge();
+	
+	//p.setAge();
+	Person p2 = new Person();
+	p2.growup();
+	p2.getAge();
+	}
+	
+	
+
+}
+
+/*public class hello{
+/* This is my first java program.
+ * This will print 'Hello World' as the output
+ */
+ /*public static void main(String[]args){
+System.out.println("Hello World");// prints Hello World
+}
+}*/
